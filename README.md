@@ -3,7 +3,7 @@
 
 ### About me:
 
-* Clojure programmer
+* Clojure developer
 * lisp enthusiast
 * `(use :Arch) ;; btw` 
 
